@@ -1,3 +1,3 @@
 # LogicaProg
 
-Bem vindos ao meu singelo espaço!
+Teste da aula de Lógica de Programação.
